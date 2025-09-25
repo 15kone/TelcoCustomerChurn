@@ -39,7 +39,7 @@ XGBoost with SMOTE and hyperparameter tuning achieved the best performance with 
 
 ## Usage
 ```bash
-git clone <repo-url>
+git clone https://github.com/15kone/TelcoCustomerChurn
 pip install -r requirements.txt
 jupyter notebook
 ```
